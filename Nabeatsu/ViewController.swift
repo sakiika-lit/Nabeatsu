@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var number: Int = 0
+    var none: Int = 0
     @IBOutlet var countLabel: UILabel!
     @IBOutlet var faceLabel: UILabel!
     
